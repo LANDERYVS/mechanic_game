@@ -1,9 +1,9 @@
 # mechanic_game
 # INTEGRANTES:
-Andrea Borello Puime
-Felipe Bugnon
-Samira Celiz
-Wendy Delgado
+Andrea Borello Puime,
+Felipe Bugnon,
+Samira Celiz,
+Wendy Delgado,
 Romina Quiroga
 
 # PROMPTS:
